@@ -3,5 +3,3 @@
 ### Helloo! Here you'll find some of my work until now, see u 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Velgor)
