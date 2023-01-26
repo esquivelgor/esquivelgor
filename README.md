@@ -3,10 +3,10 @@
 ### Helloo! Here you'll find some of my work until now, see u 👋
 
 <a href="https://github.com/esquivelgor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Velgor&layout=compact&card_width=100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Velgor&layout=compact&card_width=100&custom_title=weeklyCodingTime"
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact&card_width=200" />
+  <img align="center" src="https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact&card_width=200&custom_title=mostUsedLanguages" />
 </a>
 
 
