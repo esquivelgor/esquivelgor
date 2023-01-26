@@ -2,7 +2,9 @@
   
 ### Helloo! Here you'll find some of my work until now, see u 👋
 
+![Velgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=esquivelgor&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats-one-flame-74.vercel.app/api/wakatime?username=Velgor)](https://github.com/anuraghazra/github-readme-stats)
+[![Velgor's wakatime stats](https://github-readme-stats-one-flame-74.vercel.app/api/wakatime?username=Velgor)](https://github.com/anuraghazra/github-readme-stats)
 
