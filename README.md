@@ -2,6 +2,6 @@
   
 ### Helloo! Here you'll find some of my work until now, see u 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)
+![Top Langs](https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)
 
 [![Esquivelgor's wakatime stats](https://github-readme-stats-one-flame-74.vercel.app/api/wakatime?username=esquivelgor)](https://github.com/anuraghazra/github-readme-stats)
