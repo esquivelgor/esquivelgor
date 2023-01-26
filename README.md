@@ -4,5 +4,5 @@
 
 ![Top Langs](https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats-one-flame-74.vercel.app/api/wakatime?username=esquivelgor)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-one-flame-74.vercel.app/api/wakatime?username=esquivelgor)](https://github-readme-stats-one-flame-74.vercel.app)
 
