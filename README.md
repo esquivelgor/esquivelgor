@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Velgor&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact" />
+  <img align="center" src="https://github-readme-stats-one-flame-74.vercel.app/api/top-langs/?username=esquivelgor&layout=compact" />
 </a>
 
 
