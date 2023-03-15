@@ -6,4 +6,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Velgor&layout=compact&card_width=100&custom_title=weeklyCodingTime&langs_count=6"
 </a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelgor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelgor&layout=compact&PATH_1=6dsUpuzUsk4uqCPzEaOAGZkw)](https://github.com/anuraghazra/github-readme-stats)
