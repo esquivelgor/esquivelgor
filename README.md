@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/df323db4-6b37-4233-81a6-dab00bb4f034.svg)](https://wakatime.com/@df323db4-6b37-4233-81a6-dab00bb4f034)
 
 
-- 🌱 I’m currently learning **R language and statistics!**
+- 🌱 I’m currently learning **Swift!**
 
 - 📫 How to reach me **esquivelguillerm@gmail.com**
 
