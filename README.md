@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=esquivelgor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">🚀 Computer Science Student | 🤖 AI Enthusiast | 🎮 Game Developer</h3>
+<h3 align="center">🚀 Computer Science Student | 🤖 AI Enthusiast </h3>
 
 ---
 
