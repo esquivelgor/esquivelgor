@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Guillermo!</h1>
+<h1 align="center">👋 Heey, I'm Guillermo!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esquivelgor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -9,16 +9,10 @@
 
 ### 🌱 What I'm Up To
 
-- 📚 Currently diving deep into **Swift** for iOS development.
+- 📚 Currently in 6th semester, starting learning **Vue.js** :)
 - 📫 Reach me at: [esquivelguillerm@gmail.com](mailto:esquivelguillerm@gmail.com)
 - ⚡ Fun Fact: I'm a passionate road bike rider!
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/1860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1860" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -34,11 +28,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esquivelgor&show_icons=true&locale=en&theme=ocean_dark" alt="GitHub Stats" />
+  <img src="https://api.githubtrends.io/user/svg/esquivelgor/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esquivelgor&theme=ocean_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esquivelgor&show_icons=true&locale=en&theme=ocean_dark" alt="GitHub Stats" />
 </p>
+
 
 
