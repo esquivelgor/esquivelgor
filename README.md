@@ -9,7 +9,7 @@
 
 ### 🌱 What I'm Up To
 
-- 📚 Currently in 6th semester, starting learning **Vue.js** :)
+- 📚 Currently in 6th semester, starting learning **Docker Containerization** :)
 - 📫 Reach me at: [esquivelguillerm@gmail.com](mailto:esquivelguillerm@gmail.com)
 - ⚡ Fun Fact: I'm a passionate road bike rider!
 
